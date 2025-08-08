@@ -24,4 +24,10 @@ GitHub  [https://github.com/Olive86/Olive86/edit/main/README.md](https://github.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+  ## Projects
+
+1. SQL- E-commerce 
+
+  
