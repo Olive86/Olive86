@@ -1,5 +1,18 @@
 ## WELCOME TO MY PAGE 👋👋👋
-Hi  I am Olive Dang (Thi Hai Dang). I graduated from Doctor of philosophy and Master of Agribusiness from University of Queensland, majoring in Agribusiness and farming system. I am interested in the following topics:
+Hi  I am Olive Dang (Thi Hai Dang).
+- 😄 Pronouns: She/her
+
+### Education
+ Agribusiness, PhD,  University of Queensland 
+ 
+ Master of Agribusiness, University of Queensland
+ 
+ Rural Development and Agriculture Extension, Bachelor
+ 
+
+
+ 
+ . I am interested in the following topics:
 
   Climate‑Smart and Resilient Farming, including carbon farming and practices that help farms adapt to climate change, improve productivity, and reduce greenhouse gas emissions 
 
@@ -22,8 +35,8 @@ GitHub  [https://github.com/Olive86/Olive86/edit/main/README.md](https://github.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 
   ## Projects
