@@ -16,9 +16,6 @@ Linkedin [LinkedIn](https://www.linkedin.com/in/hai-dang-489a1184/)
 GitHub  [https://github.com/Olive86/Olive86/edit/main/README.md](https://github.com/Olive86/Olive86/tree/main)
 
 
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
