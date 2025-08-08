@@ -3,11 +3,11 @@ Hi  I am Olive Dang (Thi Hai Dang).
 - 😄 Pronouns: She/her
 
 ### Education
- Agribusiness, PhD,  University of Queensland 
+ - Ph.D, Agribusiness| University of Queensland 
  
- Master of Agribusiness, University of Queensland
+- Msc., Aribusiness| University of Queensland
  
- Rural Development and Agriculture Extension, Bachelor
+- B.S., Rural Development and Agriculture Extension| Hanoi Agriculture University
  
 
 
